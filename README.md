@@ -4,6 +4,7 @@ Describe your project at a high level (microserver, psql, java)
 
 # Docker Architecture Diagram
 - trading_app docker diagram including:
+ here i will add diagram for trading app
  - use draw.io and AWS icons (it's already in draw.io library)
  - images (docker hub and local)
  - bridge network

@@ -1,5 +1,6 @@
 # Introduction
 What project you will deploy and project GitHub URL (your implementation is preferred)
+- Add project url here
 Describe your project at a high level (microserver, psql, java)
 
 # Docker Architecture Diagram
@@ -19,8 +20,10 @@ Describe your project at a high level (microserver, psql, java)
 
 # Cloud Architecture Diagram
 - trading app diagram
+  - Details of trading app diagram
   - use draw.io and aws icons (it's in the draw.io library)
   - include ec2, alb, auto scaling, target group, rds
   - security groups
+    - Talk in detail about security groups
   - label all important ports(e.g. ALB HTTP, ec2 tpc:5000, RDS tcp:5432)
   - have to add details here

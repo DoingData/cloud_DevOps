@@ -23,3 +23,4 @@ Describe your project at a high level (microserver, psql, java)
   - include ec2, alb, auto scaling, target group, rds
   - security groups
   - label all important ports(e.g. ALB HTTP, ec2 tpc:5000, RDS tcp:5432)
+  - have to add details here

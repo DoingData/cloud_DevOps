@@ -21,6 +21,7 @@ Describe your project at a high level (microserver, psql, java)
 # Cloud Architecture Diagram
 - trading app diagram
   - Details of trading app diagram
+  - add diagrams about all types of cloud deployments
   - use draw.io and aws icons (it's in the draw.io library)
   - include ec2, alb, auto scaling, target group, rds
   - security groups

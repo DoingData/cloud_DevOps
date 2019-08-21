@@ -28,3 +28,4 @@ Describe your project at a high level (microserver, psql, java)
     - Talk in detail about security groups
   - label all important ports(e.g. ALB HTTP, ec2 tpc:5000, RDS tcp:5432)
   - have to add details here
+  - have to add pics
